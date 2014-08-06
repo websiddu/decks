@@ -1,0 +1,1 @@
+angular.module("deckApp",[]).controller("DeckController",["$scope","$http","$sce",function(a,b){a.list=[],a.init=function(){b({method:"GET",url:"data/data.json"}).success(function(b){a.list=b})},a.init()}]);
