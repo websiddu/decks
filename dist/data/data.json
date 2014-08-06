@@ -1,15 +1,30 @@
 [
   {
-    "name": "Front-end Technologies",
+    "name": "Intro to Front-end Dev",
     "description": "A one day work shop on Front-end Technologies at VR Siddhartha Engineering College",
     "date": "19th Jul 2014",
     "locaiton": "VR Siddhartha Engineering College",
-    "url": "http://websiddu.github.com/deck/intro-to-front-end-tech"
+    "url": "http://websiddu.github.io/intro-to-front-end-dev/"
   },
   {
-    "name": "Front-end Technologies",
-    "description": "",
-    "date": "",
-    "locaiton": ""
+    "name": "Intro to CSS",
+    "description": "A one day work shop on Front-end Technologies at VR Siddhartha Engineering College",
+    "date": "19th Jul 2014",
+    "locaiton": "VR Siddhartha Engineering College",
+    "url": "http://websiddu.github.io/intro-to-css3/"
+  },
+  {
+    "name": "Basics of User Centered Design Part 2",
+    "description": "A presentation on Basics of User Centered Design",
+    "date": "31st Jul 2014",
+    "locaiton": "Confidential",
+    "url": "http://websiddu.github.com/user-centered-design-basics-part2"
+  },
+  {
+    "name": "Brief Intro to AngularJS",
+    "description": "An brief introduction to the angular js for a team in my office.",
+    "date": "8th Aug 2014",
+    "locaiton": "Confidential",
+    "url": "http://websiddu.github.com/brief-intro-to-angularjs"
   }
 ]
